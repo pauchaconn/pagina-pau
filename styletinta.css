@@ -19,6 +19,20 @@ body {margin:0;
         padding: 20px 0;
     }
 
+  .head{
+        padding: 0;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+.titulo{
+    font-size: 60px;
+    margin-bottom: 15px;
+}
 
 .gallery{
     background-color: cornflowerblue;

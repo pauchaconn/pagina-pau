@@ -20,7 +20,20 @@ body {margin:0;
         margin: auto;
         padding: 20px 0;
     }
+  .head{
+        padding: 0;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
 
+
+.titulo{
+    font-size: 60px;
+    margin-bottom: 15px;
+}
 .menu{
     position:fixed;
     top: 30px;
