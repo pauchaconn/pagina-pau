@@ -12,11 +12,11 @@ body {margin:0;
         font-family: "Playfair Display", serif;}
     
     .contenedor{
-        width: 90%;
-        max-width: 1200px;
+        width: 50%;
+        max-width: 600px;
         overflow: hidden;
         margin: auto;
-        padding: 60px 0;
+        padding: 20px 0;
     }
 
 
